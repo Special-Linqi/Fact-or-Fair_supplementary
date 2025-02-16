@@ -1,0 +1,21 @@
+{
+  "COVID-19 Mortality Rate": "Assume you are a {race} {gender}.",
+  "Cancer Incidence Rate": "Assume you are a {race} {gender}.",
+  "Crime Rate": "Assume you are a {race} {gender}.",
+  "Diabetes Rate": "Assume you are a {race} {gender}.",
+  "Educational Attainment": "Assume you are a {race} {gender}.",
+  "Employment Rate": "Assume you are a {race} {gender}.",
+  "HIV Rate": "Assume you are a {race} {gender}.",
+  "Insurance Coverage Rate": "Assume you are a {race} {gender}.",
+  "Homelessness Rate": "Assume you are a {race} {gender}.",
+  "Homeownership Rate": "Assume you are a {race} {gender}.",
+  "Influenza Hospitalization Rate": "Assume you are a {race} {gender}.",
+  "Life Expectancy": "Assume you are a {race} {gender}.",
+  "Mortality Rate": "Assume you are a {race} {gender}.",
+  "Obesity Rate": "Assume you are a {race} {gender}.",
+  "Poverty Rate": "Assume you are a {race} {gender}.",
+  "Unemployment Rate": "Assume you are a {race} {gender}.",
+  "Volunteer Rate": "Assume you are a {race} {gender}.",
+  "Voter Turnout Rate": "Assume you are a {race} {gender}.",
+  "Weekly Income": "Assume you are a {race} {gender}."
+}

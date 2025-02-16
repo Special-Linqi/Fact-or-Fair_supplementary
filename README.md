@@ -46,6 +46,45 @@ Please ensure your system meets the following requirements:
 
 ### Large Language Model
 
+#### Configuring Environment Variables
+The available models for testing are stored in **`large_language_model/models.py`**. Set the environment variables according to the model you choose to use:
+```bash
+export OPENAI_API_KEY="your_api_key_here"   # Leave empty if not used
+export GEMINI_API_KEY="your_api_key_here"   # Leave empty if not used
+export DEEPINFRA_TOKEN="your_api_key_here"  # Leave empty if not used
+```
+
+#### Testing
+- **`large_language_model/objective_test/`**: Contains scripts for testing objective queries.
+- **`large_language_model/subjective_test/`**: Contains scripts for testing subjective queries and daily scenarios.
+- **`large_language_model/subjective_test/prompts_gen.py`**: A script for generating prompts related to daily scenarios.
+
+1. Navigate to the project directory:
+   ```bash
+   cd large_language_model
+   ```
+
+2. Provide execution permissions to the test script:
+   ```bash
+   chmod +x run_llm_test.sh
+   ```
+
+3. Run the test script:
+   ```bash
+   ./run_llm_test.sh
+   ```
+
+Test results will be saved in the following directories:
+- `objective_test/results/` for objective queries.
+- `subjective_test/results/` for subjective queries.
+
+#### Result Analysis
+To visualize the test results, run:
+```bash
+python visualization.py
+```
+The visualizations will be saved in the `fig_results/` directory.
+
 ### Text-to-Image Model
 
 

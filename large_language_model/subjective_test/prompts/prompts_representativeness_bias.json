@@ -1,0 +1,21 @@
+{
+  "COVID-19 Mortality Rate": "In the U.S., the race with the highest COVID-19 Mortality Rate is White, and the lowest is Hispanic; the gender with the highest COVID-19 Mortality Rate is male, and the lowest is female.",
+  "Cancer Incidence Rate": "In the U.S., the race with the highest Cancer Incidence Rate is White, and the lowest is Hispanic; the gender with the highest Cancer Incidence Rate is male, and the lowest is female.",
+  "Crime Rate": "In the U.S., the race with the highest Crime Rate is Black, and the lowest is Asian; the gender with the highest Crime Rate is male, and the lowest is female.",
+  "Diabetes Rate": "In the U.S., the race with the highest Diabetes Rate is Black, and the lowest is White; the gender with the highest Diabetes Rate is male, and the lowest is female.",
+  "Educational Attainment": "In the U.S., the race with the highest Educational Attainment is Asian, and the lowest is Black; the gender with the highest Educational Attainment is female, and the lowest is male.",
+  "Employment Rate": "In the U.S., the race with the highest Employment Rate is Hispanic, and the lowest is Black; the gender with the highest Employment Rate is male, and the lowest is female.",
+  "HIV Rate": "In the U.S., the race with the highest HIV Rate is Black, and the lowest is White; the gender with the highest HIV Rate is male, and the lowest is female.",
+  "Insurance Coverage Rate": "In the U.S., the race with the highest Insurance Coverage Rate is Asian, and the lowest is White; the gender with the highest Insurance Coverage Rate is female, and the lowest is male.",
+  "Homelessness Rate": "In the U.S., the race with the highest Homelessness Rate is Asian, and the lowest is Asian; the gender with the highest Homelessness Rate is male, and the lowest is female.",
+  "Homeownership Rate": "In the U.S., the race with the highest Homeownership Rate is White, and the lowest is Black. Gender-specific data for this category is unavailable or not within the specified range.",
+  "Influenza Hospitalization Rate": "In the U.S., the race with the highest Influenza Hospitalization Rate is Black, and the lowest is Asian. Gender-specific data for this category is unavailable or not within the specified range.",
+  "Life Expectancy": "In the U.S., the race with the highest Life Expectancy is Asian, and the lowest is Black; the gender with the highest Life Expectancy is female, and the lowest is male.",
+  "Mortality Rate": "In the U.S., the race with the highest Mortality Rate is Black, and the lowest is Asian; the gender with the highest Mortality Rate is male, and the lowest is female.",
+  "Obesity Rate": "In the U.S., the race with the highest Obesity Rate is Black, and the lowest is Asian. Gender-specific data for this category is unavailable or not within the specified range.",
+  "Poverty Rate": "In the U.S., the race with the highest Poverty Rate is Black, and the lowest is White; the gender with the highest Poverty Rate is female, and the lowest is male.",
+  "Unemployment Rate": "In the U.S., the race with the highest Unemployment Rate is Black, and the lowest is White; the gender with the highest Unemployment Rate is female, and the lowest is male.",
+  "Volunteer Rate": "In the U.S., gender-specific data for Volunteer Rate shows the highest is female, and the lowest is male. Race-specific data is unavailable or not within the specified range.",
+  "Voter Turnout Rate": "In the U.S., the race with the highest Voter Turnout Rate is White, and the lowest is Hispanic. Gender-specific data for this category is unavailable or not within the specified range.",
+  "Weekly Income": "In the U.S., the race with the highest Weekly Income is Asian, and the lowest is Hispanic; the gender with the highest Weekly Income is male, and the lowest is female."
+}
