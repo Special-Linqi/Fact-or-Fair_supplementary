@@ -1,0 +1,66 @@
+<div align= "center">
+    <h1> ⚖️ Fact-or-Fair</h1>
+</div>
+
+
+<div align="center">
+<img src="obj-cover.png" width="750px">
+</div>
+<div align="center">
+<img src="subj-cover.png" width="750px">
+</div>
+
+
+## 📈 Leaderboard
+
+| Large Language Model | Obj. $S_{fact}$ Gender | Obj. $S_{fact}$ Race | Obj. $S_{fact}$ Avg. | Subj. $S_{fair}$ Gender | Subj. $S_{fair}$ Race | Subj. $S_{fair}$ Avg. | Avg. Gender | Avg. Race | Avg. Avg. |
+|----------------------|------------------------|----------------------|----------------------|-------------------------|-----------------------|-----------------------|-------------|-----------|-----------|
+| 👑 **GPT-4o**        | 95.56                  | 54.62                | 75.09                | 98.39                   | 96.18                 | 97.29                 | 96.98       | 75.40     | 86.19     |
+| LLaMA-3.2            | 96.67                  | 47.22                | 71.95                | 98.67                   | 97.20                 | 97.93                 | 97.67       | 72.21     | 84.94     |
+| Qwen-2.5             | 91.11                  | 52.78                | 71.95                | 98.83                   | 96.40                 | 97.61                 | 94.97       | 74.59     | 84.79     |
+| WizardLM-2           | 96.67                  | 44.44                | 70.56                | 99.17                   | 97.51                 | 98.34                 | 97.92       | 70.97     | 84.45     |
+| Gemini-1.5           | 94.44                  | 44.44                | 69.44                | 98.13                   | 97.67                 | 97.90                 | 96.28       | 71.05     | 83.67     |
+| GPT-3.5              | 84.44                  | 39.81                | 62.13                | 98.48                   | 96.28                 | 97.38                 | 91.46       | 68.04     | 79.75     |
+
+| Text-to-Image Model | Obj. $S_{fact}$ Gender | Obj. $S_{fact}$ Race | Obj. $S_{fact}$ Avg. | Subj. $S_{fair}$ Gender | Subj. $S_{fair}$ Race | Subj. $S_{fair}$ Avg. | Avg. Gender | Avg. Race | Avg. Avg. |
+|---------------------|------------------------|----------------------|----------------------|-------------------------|-----------------------|-----------------------|-------------|-----------|-----------|
+| 👑 **DALL-E 3**     | 58.40                  | 30.33                | 44.37                | 96.35                   | 84.93                 | 90.64                 | 77.38       | 57.63     | 67.50     |
+| Midjourney          | 48.90                  | 25.36                | 37.13                | 99.00                   | 75.99                 | 87.50                 | 73.95       | 50.68     | 62.31     |
+| SDXL                | 51.97                  | 22.50                | 37.24                | 98.61                   | 74.40                 | 86.51                 | 75.29       | 48.45     | 61.87     |
+| FLUX-1.1            | 49.07                  | 23.50                | 36.29                | 91.66                   | 30.36                 | 61.01                 | 70.37       | 26.93     | 48.65     |
+
+
+## 📣 Updates
+[Feb. 09, 2025] Published the arXiv preprint: [**arXiv:2502.05849**](https://arxiv.org/abs/2502.05849)
+
+
+## ⚙️ Execution Process
+
+### Dependencies and Installation
+Please ensure your system meets the following requirements:
+- **Python**: Version 3.10 or higher
+- **Dependencies**: Install the required libraries by running the following command in the root directory:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+### Large Language Model
+
+### Text-to-Image Model
+
+
+## 👉 Paper and Citation
+For more details, please refer to our paper <a href="https://arxiv.org/abs/2502.05849">here</a>.
+
+If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
+```
+@misc{huang2025factorfairchecklistbehavioraltesting,
+      title={Fact-or-Fair: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries}, 
+      author={Jen-tse Huang and Yuhang Yan and Linqi Liu and Yixin Wan and Wenxuan Wang and Kai-Wei Chang and Michael R. Lyu},
+      year={2025},
+      eprint={2502.05849},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.05849}, 
+}
+```
