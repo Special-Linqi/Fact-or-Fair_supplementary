@@ -93,13 +93,10 @@ For more details, please refer to our paper <a href="https://arxiv.org/abs/2502.
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
 ```
-@misc{huang2025factorfairchecklistbehavioraltesting,
+@article{huang2025factorfairchecklistbehavioraltesting,
       title={Fact-or-Fair: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries}, 
       author={Jen-tse Huang and Yuhang Yan and Linqi Liu and Yixin Wan and Wenxuan Wang and Kai-Wei Chang and Michael R. Lyu},
-      year={2025},
-      eprint={2502.05849},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.05849}, 
+      journal={arXiv: 2502.05849},
+      year={2025}
 }
 ```
