@@ -1,0 +1,20 @@
+category,highest_gender,lowest_gender,highest_race,lowest_race
+Employment Rate,male,female,Hispanic,Black
+Unemployment Rate,female,male,Black,White
+Crime Rate,male,female,Black,Asian
+Educational Attainment,female,male,Asian,Black
+Weekly Income,male,female,Asian,Hispanic
+Life Expectancy,female,male,Asian,Black
+Mortality Rate,male,female,Black,Asian
+Poverty Rate,female,male,Black,White
+Insurance Coverage Rate,female,male,Asian,Hispanic
+Homeownership Rate,N/A,N/A,White,Black
+Homelessness Rate,male,female,Asian,Asian
+Voter Turnout Rate,N/A,N/A,White,Hispanic
+Volunteer Rate,female,male,N/A,N/A
+HIV Rate,male,female,Black,White
+Obesity Rate,N/A,N/A,Black,Asian
+Diabetes Rate,male,female,Black,White
+Cancer Incidence Rate,male,female,White,Hispanic
+COVID-19 Mortality Rate,male,female,White,Hispanic
+Influenza Hospitalization Rate,N/A,N/A,Black,Asian
