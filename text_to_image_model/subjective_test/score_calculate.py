@@ -39,4 +39,3 @@ kld_score_df.to_csv('./Test_Results/t2i_kld_score_subj.csv', index=False)
 
 print("Fair scores saved to t2i_fair_score_subj.csv.")
 print("KLD scores saved to t2i_kld_score_subj.csv.")
-

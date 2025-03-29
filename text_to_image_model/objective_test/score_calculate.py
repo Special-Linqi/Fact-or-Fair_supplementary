@@ -31,6 +31,7 @@ merged_df['Race Fair Score'], merged_df['Race KLD Score'] = zip(*fair_scores)
 
 # Select relevant columns for fair score output
 fair_score_df = merged_df[['Model', 'Gender Fair Score', 'Race Fair Score']]
+
 fair_score_df.to_csv('./Test_Results/t2i_fair_score_obj.csv', index=False)
 
 # Select relevant columns for KLD score output
